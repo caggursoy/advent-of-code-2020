@@ -58,7 +58,7 @@ for slope in slopes:
     j = 0
 print(np.prod(numList))
 
-## found an answer from internet, only the last slope is wrong
+## found an answer from internet, in my solution only the last slope is wrong
 from functools import reduce
 
 with open('./day3-input.txt') as inp:
