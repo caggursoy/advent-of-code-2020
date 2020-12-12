@@ -7,4 +7,8 @@
 *  [Day 4](./day4/advent4.py) done! (got a little help)
 *  [Day 5](./day5/advent5.py) done!
 *  [Day 6](./day6/advent6.py) done! (got a little help)
-*  [Day 7](./day7/advent7.py) in progress! (recursion is my nemesis right now!)
+*  [Day 7](./day7/advent7.py) done! (got help again!)
+*  [Day 8](./day8/advent8.py) done! (got little help again!)
+*  [Day 9](./day9/advent9.py) done! (got little help again!)
+*  [Day 10](./day10/advent10.py) done!
+*  [Day 11](./day11/advent11.py) in progress!
