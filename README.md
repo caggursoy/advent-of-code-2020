@@ -11,4 +11,6 @@
 *  [Day 8](./day8/advent8.py) done! (got little help again!)
 *  [Day 9](./day9/advent9.py) done! (got little help again!)
 *  [Day 10](./day10/advent10.py) done!
-*  [Day 11](./day11/advent11.py) in progress!
+*  [Day 11](./day11/advent11.py) done!
+*  [Day 12](./day12/advent12.py) done!
+*  [Day 13](./day13/advent13.py) done!
